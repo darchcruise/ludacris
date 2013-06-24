@@ -1,4 +1,6 @@
+# http://en.wikipedia.org/wiki/Ludacris
 # http://www.youtube.com/watch?v=cvrKzmkdBTI
+
 require 'pry'
 
 class RecordLabel
